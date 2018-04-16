@@ -1,0 +1,25 @@
+Agenda
+	SSS_03 - O Sistema DEVE permirtir a manutenção dos dados da agenda.
+		*SRS_001 - As tarefas na agenda devem conter:nome da tarefa, animal, data e hora do aviso, motivo e destinatario.
+
+
+Clientes
+	SSS_01 - O Sistema DEVE permitir a manutenção dos dados dos clientes.
+	   *SRS_001 - o cadastro do cliente deve conter elementos como: nome, data de nascimento, CPF, endereço, nome do animal,observações,e-mail,telefone.
+
+Animais
+	SS_002 - O Sistema DEVE permitir a manutenção dos dados dos animais.
+		*SRS_001 - O cadastro do animal deve conter elementos como:nome, data de nascimento, espécie, raça, peso, cor, sexo, microchip, prescrição, nome do proprietario, historico de consultas.
+		
+
+Procedimentos
+	SSS_004 - O Sistema DEVE permitir a manutenção dos procedimentos contratados pelo cliente.
+		*SRS_001 - os procedimentos devem conter: nome do animal, descrição, valor, responsável do procedimento,e data.
+
+Hotel
+	SSS_005 - O Sistema DEVe permitir a manutenção dos cadastros de hotelaria.
+		*SRS_001 - os cadastros devem conter: nome do animal, observações, pertences, data de inicio da hospedagem, data do fim da hospedagem, e diária.
+
+Funcionarios
+	SSS_006 - o Sistema DEVE permitir a manutenção dos funcionarios.
+		*SRS_001 - os funcionarios devem conter: nome, apelido, data de nascimento, CPF, cargo e situação.
