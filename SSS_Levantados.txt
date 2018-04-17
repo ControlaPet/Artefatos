@@ -1,25 +1,26 @@
 Agenda
-	SSS_03 - O Sistema DEVE permirtir a manutenÁ„o dos dados da agenda.
+	SSS_003 - O Sistema DEVE permitir a manuten√ß√£o dos dados da agenda.
 		*SRS_001 - As tarefas na agenda devem conter:nome da tarefa, animal, data e hora do aviso, motivo e destinatario.
-
+		*SRS_002 - O Sistema DEVE impedir um agendamento caso a data informada seja anterior √† data atual.
 
 Clientes
-	SSS_01 - O Sistema DEVE permitir a manutenÁ„o dos dados dos clientes.
-	   *SRS_001 - o cadastro do cliente deve conter elementos como: nome, data de nascimento, CPF, endereÁo, nome do animal,observaÁıes,e-mail,telefone.
+	SSS_001 - O Sistema DEVE permitir a manuten√ß√£o dos dados dos clientes.
+	   *SRS_001 - o cadastro do cliente deve conter elementos como: nome, data de nascimento, CPF, endere√ßo, nome do animal,observa√ß√µes,e-mail,telefone.
 
 Animais
-	SS_002 - O Sistema DEVE permitir a manutenÁ„o dos dados dos animais.
-		*SRS_001 - O cadastro do animal deve conter elementos como:nome, data de nascimento, espÈcie, raÁa, peso, cor, sexo, microchip, prescriÁ„o, nome do proprietario, historico de consultas.
-		
+	SSS_002 - O Sistema DEVE permitir a manuten√ß√£o dos dados dos animais.
+		*SRS_001 - O cadastro do animal deve conter elementos como:nome, data de nascimento, esp√©cie, ra√ßa, peso, cor, sexo, microchip, prescri√ß√£o, nome do proprietario, historico de consultas.
+	
+	SSS_007 - O Sistema, ao registrar uma consulta, DEVE registrar os dados da consulta no hist√≥rico do pet.
 
 Procedimentos
-	SSS_004 - O Sistema DEVE permitir a manutenÁ„o dos procedimentos contratados pelo cliente.
-		*SRS_001 - os procedimentos devem conter: nome do animal, descriÁ„o, valor, respons·vel do procedimento,e data.
+	SSS_004 - O Sistema DEVE permitir a manuten√ß√£o dos procedimentos contratados pelo cliente.
+		*SRS_001 - os procedimentos devem conter: nome do animal, descri√ß√£o, valor, respons√°vel do procedimento,e data.
 
 Hotel
-	SSS_005 - O Sistema DEVe permitir a manutenÁ„o dos cadastros de hotelaria.
-		*SRS_001 - os cadastros devem conter: nome do animal, observaÁıes, pertences, data de inicio da hospedagem, data do fim da hospedagem, e di·ria.
+	SSS_005 - O Sistema DEVe permitir a manuten√ß√£o dos cadastros de hotelaria.
+		*SRS_001 - os cadastros devem conter: nome do animal, observa√ß√µes, pertences, data de inicio da hospedagem, data do fim da hospedagem, e di√°ria.
 
 Funcionarios
-	SSS_006 - o Sistema DEVE permitir a manutenÁ„o dos funcionarios.
-		*SRS_001 - os funcionarios devem conter: nome, apelido, data de nascimento, CPF, cargo e situaÁ„o.
+	SSS_006 - o Sistema DEVE permitir a manuten√ß√£o dos funcionarios.
+		*SRS_001 - os funcionarios devem conter: nome, apelido, data de nascimento, CPF, cargo e situa√ß√£o.
