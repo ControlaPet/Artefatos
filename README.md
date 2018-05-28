@@ -4,7 +4,7 @@ Sistema ControlaPet
 
 INTEGRANTES DA EQUIPE:
 
-Bruno Lima dos Santos       RA:1700713		github: bruno1576
+Bruno Lima dos Santos       RA:1700713		github: bruno1576 
 
 Isaque Felizardo			RA:1700525		github: isaque015
 
