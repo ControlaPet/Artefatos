@@ -1,0 +1,64 @@
+Criar o menu com os nomes de menu / submenus certos
+----------------------------------------------------------------------------------------------------------
+1)  LOGIN --------------------------------------- NAO FAZ PARTE
+2)  ESQUECI A SENHA ----------------------------- NAO FAZ PARTE
+3)  CADASTRO DO FUNCIONARIO --------------------- ADMINISTRE SUA CLINICA
+4)  CADASTRO DE ANIMAL -------------------------- CADASTRO
+5)  CONSULTAR ANIMAL ---------------------------- CONSULTA
+6)  CADASTRO DE CLIENTES ------------------------ CADASTRO
+7)  INDEX/HOME ---------------------------------- NAVEGAÇÃO
+8)  FICHA DO ANIMAL ----------------------------- DIAGNOSTICO
+9)  CADASTRO DE SERVIÇOS ------------------------ ADMINISTRE SUA CLINICA
+10) RELATÓRIOS ---------------------------------- ADMINISTRE SUA CLINICA
+11) ORÇAMENTO ----------------------------------- ADMINISTRE SUA CLINICA(tela modal da página de Cadastro de atendimento)
+12) CADASTRO DE ATENDIMENTO --------------------- CADASTRO
+13) ESTADIA ------------------------------------- ESTADIA
+14) ACOMPANHE SEUS ATENDIMENTOS ----------------- CONSULTA
+15) ANIMAIS CADASTRADOS ------------------------- CONSULTA*
+16) CONSULTAR HISTÓRICO ------------------------- CONSULTA
+17) CONSULTAR EXAMES ---------------------------- CONSULTA
+18) AVISOS - TAREFAS ---------------------------- AVISOS
+----------------------------------------------------------------------------------------------------------
+I - ADMINISTRE SUA CLÍNICA
+1)CADASTRO DO FUNCIONARIO
+2)CADASTRO DE SERVIÇOS
+3)RELATÓRIOS
+----------------------------------------------------------------------------------------------------------
+II - AGENDA
+1)CALENDARIO
+2)TAREFAS
+----------------------------------------------------------------------------------------------------------
+III - CADASTRO
+1)  CADASTRO DE ANIMAL
+2)  CADASTRO DE CLIENTES
+3)  CADASTRO DE ATENDIMENTO
+----------------------------------------------------------------------------------------------------------
+IV - CONSULTA
+1)CONSULTAR ANIMAL
+2)ANIMAIS CADASTRADOS
+3)CONSULTAR HISTÓRICO
+4)CONSULTAR EXAMES
+----------------------------------------------------------------------------------------------------------
+V - ATENDIMENTOS
+1)acompanhe seus atendimentos
+2) atendimentos em aberto
+3) animais em estadia
+----------------------------------------------------------------------------------------------------------
+VI - HOTEL
+1)ESTADIA
+----------------------------------------------------------------------------------------------------------
+VII - DIAGNOSTICO
+1)FICHA DO ANIMAL
+----------------------------------------------------------------------------------------------------------
+VIII - AVISOS
+1)AVISOS - TAREFAS
+----------------------------------------------------------------------------------------------------------
+RESUMINDO TODOS SUBMENUS
+1) ADMINISTRE SUA CLINICA(3)
+2) AGENDA(2)
+3) CADASTRO(3)
+4) CONSULTA(4)
+5) ATENDIMENTOS(3)
+6) HOTEL(1)
+7) DIAGNOSTICO(1)
+8) AVISOS(1)
