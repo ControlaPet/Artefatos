@@ -1,0 +1,18 @@
+Arquitetura Antes:
+ - Roteador da própria provedora de Internet, tudo era utilizado vi WiFi, não tinha um segundo computador, era utilizado apenas um computador e tinha um adaptador Wireless na sala dela que puxava o sinal do roteador do provedor até o computador dela.
+
+ - Tem celulares, a qualidade dio roteador interferia no sinal, 35 MB que funcionava 2 MB
+
+
+Arquitetura Atual:
+
+  -  Compramos um roteador bom
+  -  Montamos a infraestrutura, pegando um cabo de rede do roteador até o provedor;
+  - Desligamos o sinal do provedor 
+  - Colocamos o moldem do provedor, apenas para ser moldem sem a função Wireless;
+  -  Prove a internet
+
+
+
+
+https://www.devmedia.com.br/artigo-engenharia-de-software-3-requisitos-nao-funcionais/9525
